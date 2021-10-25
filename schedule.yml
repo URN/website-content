@@ -1,9 +1,9 @@
 Monday:
-  Headbangers Hideaway:
+  Headbangers' Hideaway:
     start: 0
     end: 1
     type: after-dark
-  Boombox:
+  The Boombox Show:
     start: 1
     end: 3
     type: after-dark
@@ -11,7 +11,7 @@ Monday:
     start: 3
     end: 7
     type: automation
-  Julie:
+  Julie Bonnet-Durville:
     start: 7
     end: 9
     type: after-dark
@@ -47,12 +47,12 @@ Monday:
     start: 21
     end: 23
     type: after-dark
-  Nightbus:
+  Night Bus:
     start: 23
     end: 24
     type: after-dark
 Tuesday:
-  Nightbus:
+  Night Bus:
     start: 0
     end: 1
     type: after-dark
@@ -96,7 +96,7 @@ Tuesday:
     start: 19
     end: 21
     type: after-dark
-  Indie Bangers:
+  Jon & Benedict's Indie Bangers:
     start: 21
     end: 23
     type: after-dark
@@ -109,7 +109,7 @@ Wednesday:
     start: 0
     end: 1
     type: after-dark
-  Aleksa Stirāne:
+  NeoSeoul:
     start: 1
     end: 3
     type: after-dark
@@ -117,7 +117,7 @@ Wednesday:
     start: 3
     end: 7
     type: automation
-  Barnaby:
+  Barnaby Row:
     start: 7
     end: 9
     type: after-dark
@@ -170,7 +170,7 @@ Thursday:
     start: 3
     end: 7
     type: automation
-  Ellen:
+  Singing Schnitzels:
     start: 7
     end: 9
     type: after-dark
@@ -215,7 +215,7 @@ Friday:
     start: 0
     end: 1
     type: after-dark
-  David Marley & Willem Buurman:
+  Carp IDM:
     start: 1
     end: 3
     type: after-dark
@@ -259,7 +259,7 @@ Friday:
     start: 21
     end: 23
     type: after-dark
-  The Punk Show:
+  'The Punk Show: Xian Londono':
     start: 23
     end: 24
     type: after-dark
@@ -268,7 +268,7 @@ Saturday:
     start: 0
     end: 1
     type: after-dark
-  'Xian Londono: DOOMSDAY':
+  DOOMSDAY:
     start: 1
     end: 3
     type: after-dark
@@ -276,7 +276,7 @@ Saturday:
     start: 3
     end: 7
     type: automation
-  Eliz:
+  Eliz Hussein:
     start: 7
     end: 9
     type: after-dark
@@ -316,7 +316,7 @@ Saturday:
     start: 19
     end: 21
     type: after-dark
-  Rotational Slot:
+  In URN We Trust:
     start: 21
     end: 23
     type: after-dark
@@ -337,7 +337,7 @@ Sunday:
     start: 3
     end: 7
     type: automation
-  Elvy:
+  Elvy McCrudden:
     start: 7
     end: 9
     type: after-dark
@@ -377,11 +377,11 @@ Sunday:
     start: 19
     end: 21
     type: after-dark
-  Electronic Music Show:
+  The Electronic Music Show:
     start: 21
     end: 23
     type: after-dark
-  Headbangers Hideaway:
+  Headbangers' Hideaway:
     start: 23
     end: 24
     type: after-dark
