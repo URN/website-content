@@ -149,7 +149,7 @@ Wednesday:
     start: 19
     end: 21
     type: after-dark
-  Culture Corner:
+  Kudescorner:
     start: 21
     end: 23
     type: after-dark
@@ -357,7 +357,7 @@ Sunday:
     start: 13
     end: 15
     type: daytime
-  Emily Whiteside:
+  Balancing Books and Booze:
     start: 15
     end: 16
     type: speech
