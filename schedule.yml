@@ -174,7 +174,7 @@ Thursday:
     start: 7
     end: 9
     type: after-dark
-  Automation:
+  No Show:
     start: 9
     end: 11
     type: automation
