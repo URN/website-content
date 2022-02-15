@@ -15,19 +15,19 @@ Monday:
     start: 7
     end: 9
     type: after-dark
-  Yasmin Warner:
+  Madison Turner-Williams:
     start: 9
     end: 11
     type: daytime
-  Emily and Holly:
+  Gemma and Hannah:
     start: 11
     end: 13
     type: daytime
-  It’s Margot Monday:
+  Izzy & Izzy:
     start: 13
     end: 15
     type: daytime
-  Grace and Naiya:
+  It's Margot Mondays:
     start: 15
     end: 17
     type: daytime
@@ -68,19 +68,19 @@ Tuesday:
     start: 7
     end: 9
     type: after-dark
-  Anna Berrevoets:
+  Grace and Naiya:
     start: 9
     end: 11
     type: daytime
-  Shuffle with Mehreen:
+  George Bowman:
     start: 11
     end: 13
     type: daytime
-  Zaina Khan:
+  Emily and Holly:
     start: 13
     end: 15
     type: daytime
-  The Holy Trinity:
+  "Alex 'n' Sam Jam":
     start: 15
     end: 17
     type: daytime
@@ -121,7 +121,7 @@ Wednesday:
     start: 7
     end: 9
     type: after-dark
-  Gemma and Hannah:
+  Zaina Khan:
     start: 9
     end: 11
     type: daytime
@@ -174,19 +174,19 @@ Thursday:
     start: 7
     end: 9
     type: after-dark
-  Paul Johnston:
+  Automation:
     start: 9
     end: 11
-    type: daytime
-  Charlotte and Josie:
+    type: automation
+  Mehreen Ahmed:
     start: 11
     end: 13
     type: daytime
-  Izzy and Izzy:
+  Dinner Party (with Livvy and Ewan):
     start: 13
     end: 15
     type: daytime
-  The Reuben Rabstein Show:
+  Ollie Williams:
     start: 15
     end: 17
     type: daytime
@@ -227,19 +227,19 @@ Friday:
     start: 7
     end: 9
     type: after-dark
-  The WarmUp:
+  Sofia's Friday Show:
     start: 9
     end: 11
     type: daytime
-  Ollie Williams:
+  Anna Berrevoets:
     start: 11
     end: 13
     type: daytime
-  Dinner Party (with Ewan and Livvy):
+  The Reuben Rabstein Show:
     start: 13
     end: 15
     type: daytime
-  Sofia’s Friday Show:
+  The Holy Trinitu:
     start: 15
     end: 17
     type: daytime
@@ -288,12 +288,12 @@ Saturday:
     start: 11
     end: 12
     type: speech
-  The Buzz:
+  Yasmin Warner:
     start: 12
-    end: 13
+    end: 14
     type: daytime
-  Sports Social (2-3):
-    start: 13
+  Sports Social:
+    start: 14
     end: 15
     type: speech
   A Day in The Life:
