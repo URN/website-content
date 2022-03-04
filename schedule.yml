@@ -284,7 +284,7 @@ Saturday:
     start: 9
     end: 11
     type: daytime
-  Feminottingham / Jeanette:
+  Philosophy Show/rotation:
     start: 11
     end: 12
     type: speech
@@ -357,11 +357,11 @@ Sunday:
     start: 13
     end: 15
     type: daytime
-  Balancing Books and Booze:
+  Emily Whitesite / Ben Mellor:
     start: 15
     end: 16
     type: speech
-  'Rotational: What a Coconut/What is Diss':
+  'What a Coconut/What is Diss':
     start: 16
     end: 17
     type: speech
