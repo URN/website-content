@@ -1,387 +1,42 @@
 Monday:
-  Headbangers' Hideaway:
+  The Joe Show:
     start: 0
-    end: 1
-    type: after-dark
-  The Boombox Show:
-    start: 1
-    end: 3
-    type: after-dark
-  Automation:
-    start: 3
-    end: 7
-    type: automation
-  MOOZIKA:
-    start: 7
-    end: 9
-    type: after-dark
-  Madison Turner-Williams:
-    start: 9
-    end: 11
-    type: daytime
-  Gemma and Hannah:
-    start: 11
-    end: 13
-    type: daytime
-  Izzy & Izzy:
-    start: 13
-    end: 15
-    type: daytime
-  It's Margot Mondays:
-    start: 15
-    end: 17
-    type: daytime
-  The Pulse:
-    start: 17
-    end: 18
-    type: news
-  Big Monday Night In:
-    start: 18
-    end: 19
-    type: sport
-  'Classic Discoveries // The Next Fix':
-    start: 19
-    end: 21
-    type: after-dark
-  Indie Sunset:
-    start: 21
-    end: 23
-    type: after-dark
-  Night Bus:
-    start: 23
     end: 24
-    type: after-dark
+    type: daytime
 Tuesday:
-  Night Bus:
+  The Joe Show:
     start: 0
-    end: 1
-    type: after-dark
-  Worldwide Music Show // Vapour Trail:
-    start: 1
-    end: 3
-    type: after-dark
-  Automation:
-    start: 3
-    end: 7
-    type: automation
-  Jeanette and Makeda:
-    start: 7
-    end: 9
-    type: after-dark
-  Grace and Naiya:
-    start: 9
-    end: 11
-    type: daytime
-  George Bowman:
-    start: 11
-    end: 13
-    type: daytime
-  Emily and Holly:
-    start: 13
     end: 15
     type: daytime
-  "The Erin and Joe Show":
+  The Erin and Joe Show:
     start: 15
     end: 17
     type: daytime
-  The Pulse:
+  The Joe Show:
     start: 17
-    end: 18
-    type: news
-  Tuesday Sports Show:
-    start: 18
-    end: 19
-    type: sport
-  'On Another Note // 2-Step Verification':
-    start: 19
-    end: 21
-    type: after-dark
-  Jon & Benedict's Indie Bangers:
-    start: 21
-    end: 23
-    type: after-dark
-  The Bayney and Bertie show:
-    start: 23
     end: 24
-    type: after-dark
 Wednesday:
-  The Bayney and Bertie show:
+  The Joe Show:
     start: 0
-    end: 1
-    type: after-dark
-  NeoSeoul:
-    start: 1
-    end: 3
-    type: after-dark
-  Automation:
-    start: 3
-    end: 7
-    type: automation
-  'Woah Bessy!! Breakfast Show':
-    start: 7
-    end: 9
-    type: after-dark
-  Zaina Khan:
-    start: 9
-    end: 11
-    type: daytime
-  The Music Mixologist (with Tom Wainwright):
-    start: 11
-    end: 13
-    type: daytime
-  The SO Show (with Simi and Dunni):
-    start: 13
-    end: 15
-    type: daytime
-  Pre-CRISIS show with Abbie:
-    start: 15
-    end: 17
-    type: daytime
-  The Pulse:
-    start: 17
-    end: 18
-    type: news
-  Kimbo Talks:
-    start: 18
-    end: 19
-    type: speech
-  Crate Digging:
-    start: 19
-    end: 21
-    type: after-dark
-  Kudescorner:
-    start: 21
-    end: 23
-    type: after-dark
-  The 13th Bar:
-    start: 23
     end: 24
-    type: after-dark
+    type: daytime
 Thursday:
-  The 13th Bar:
+  The Joe Show:
     start: 0
-    end: 1
-    type: after-dark
-  HELP I'VE HAD A CRISIS // Distant Lights:
-    start: 1
-    end: 3
-    type: after-dark
-  Automation:
-    start: 3
-    end: 7
-    type: automation
-  Pinch of Alt // Mellow Mornings:
-    start: 7
-    end: 9
-    type: after-dark
-  No Show:
-    start: 9
-    end: 11
-    type: automation
-  Mehreen Ahmed:
-    start: 11
-    end: 13
-    type: daytime
-  Dinner Party (with Livvy and Ewan):
-    start: 13
-    end: 15
-    type: daytime
-  Ollie Williams:
-    start: 15
-    end: 17
-    type: daytime
-  The Pulse:
-    start: 17
-    end: 18
-    type: news
-  Rotation Sport Podcast:
-    start: 18
-    end: 19
-    type: sport
-  Indie Versus:
-    start: 19
-    end: 21
-    type: after-dark
-  Giant Steps:
-    start: 21
-    end: 23
-    type: after-dark
-  The Alt R&B Show:
-    start: 23
     end: 24
-    type: after-dark
+    type: daytime
 Friday:
-  The Alt R&B Show:
+  The Joe Show:
     start: 0
-    end: 1
-    type: after-dark
-  Carp IDM:
-    start: 1
-    end: 3
-    type: after-dark
-  Automation:
-    start: 3
-    end: 7
-    type: automation
-  Living For The Weekend:
-    start: 7
-    end: 9
-    type: after-dark
-  Sofia's Friday Show:
-    start: 9
-    end: 11
-    type: daytime
-  Anna Berrevoets:
-    start: 11
-    end: 13
-    type: daytime
-  The Reuben Rabstein Show:
-    start: 13
-    end: 15
-    type: daytime
-  The Holy Trinity:
-    start: 15
-    end: 17
-    type: daytime
-  The Pulse:
-    start: 17
-    end: 18
-    type: news
-  Chatting Like Champions:
-    start: 18
-    end: 19
-    type: sport
-  Pre-Ocean:
-    start: 19
-    end: 21
-    type: after-dark
-  Lights Out:
-    start: 21
-    end: 23
-    type: after-dark
-  Xinelo // DOOMSDAY:
-    start: 23
     end: 24
-    type: after-dark
+    type: daytime
 Saturday:
-  Xinelo // DOOMSDAY:
+  The Joe Show:
     start: 0
-    end: 1
-    type: after-dark
-  "Clubbed! Takeover":
-    start: 1
-    end: 3
-    type: after-dark
-  Automation:
-    start: 3
-    end: 7
-    type: automation
-  Yer Dad's Playlist:
-    start: 7
-    end: 9
-    type: after-dark
-  George and Damian:
-    start: 9
-    end: 11
-    type: daytime
-  The world is yours:
-    start: 11
-    end: 12
-    type: speech
-  Yasmin Warner:
-    start: 12
-    end: 14
-    type: daytime
-  Gaming Show:
-    start: 14
-    end: 15
-    type: speech
-  "Eco-Frenzy":
-    start: 15
-    end: 16
-    type: speech
-  Around the Grounds:
-    start: 16
-    end: 17
-    type: sport
-  The Big Picture:
-    start: 17
-    end: 18
-    type: speech
-  The Nila Extract:
-    start: 18
-    end: 19
-    type: speech
-  The Rock Show:
-    start: 19
-    end: 21
-    type: after-dark
-  In URN We Trust:
-    start: 21
-    end: 23
-    type: after-dark
-  UMS Residency:
-    start: 23
     end: 24
-    type: after-dark
+    type: daytime
 Sunday:
-  UMS Residency:
+  The Joe Show:
     start: 0
-    end: 1
-    type: after-dark
-  'Teresa Marques':
-    start: 1
-    end: 3
-    type: after-dark
-  Automation:
-    start: 3
-    end: 7
-    type: automation
-  The Sunrise Cycle (with Elvy McCrudden):
-    start: 7
-    end: 9
-    type: after-dark
-  Bea and Charlie:
-    start: 9
-    end: 11
-    type: daytime
-  Whistleblowers:
-    start: 11
-    end: 12
-    type: sport
-  "Queerest and Dearest/Bits n Bobs":
-    start: 12
-    end: 13
-    type: speech
-  '"Whose show is it anyway?" (with Matty and Matt)':
-    start: 13
-    end: 15
-    type: daytime
-  "Balancing books and booze/Mellob experience":
-    start: 15
-    end: 16
-    type: speech
-  'Film show':
-    start: 16
-    end: 17
-    type: speech
-  Podcast Rotational:
-    start: 17
-    end: 18
-    type: speech
-  Showtime:
-    start: 18
-    end: 19
-    type: speech
-  Under the Radar:
-    start: 19
-    end: 21
-    type: after-dark
-  The Electronic Music Show:
-    start: 21
-    end: 23
-    type: after-dark
-  Headbangers' Hideaway:
-    start: 23
     end: 24
-    type: after-dark
+    type: daytime
