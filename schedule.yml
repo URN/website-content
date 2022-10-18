@@ -284,7 +284,7 @@ Saturday:
     start: 9
     end: 11
     type: daytime
-  Philosophy Show/rotation:
+  The world is yours:
     start: 11
     end: 12
     type: speech
@@ -292,23 +292,23 @@ Saturday:
     start: 12
     end: 14
     type: daytime
-  Sports Social:
+  Gaming Show:
     start: 14
     end: 15
     type: speech
-  A Day in The Life:
+  "Eco-Frenzy":
     start: 15
     end: 16
     type: speech
-  The Big Picture:
+  Around the Grounds:
     start: 16
     end: 17
-    type: speech
-  EcoFrenzy:
+    type: sport
+  The Big Picture:
     start: 17
     end: 18
     type: speech
-  Queerest and Dearest:
+  The Nila Extract:
     start: 18
     end: 19
     type: speech
@@ -349,7 +349,7 @@ Sunday:
     start: 11
     end: 12
     type: sport
-  Tough Love:
+  "Queerest and Dearest/Bits n Bobs":
     start: 12
     end: 13
     type: speech
@@ -357,15 +357,15 @@ Sunday:
     start: 13
     end: 15
     type: daytime
-  Emily Whitesite / Ben Mellor:
+  "Balancing books and booze/Mellob experience":
     start: 15
     end: 16
     type: speech
-  'What a Coconut/What is Diss':
+  'Film show':
     start: 16
     end: 17
     type: speech
-  The Gaming Show:
+  Podcast Rotational:
     start: 17
     end: 18
     type: speech
