@@ -15,15 +15,15 @@ Monday:
     start: 7
     end: 9
     type: after-dark
-  Madison Turner-Williams:
+  Danica and Chesca:
     start: 9
     end: 11
     type: daytime
-  Gemma and Hannah:
+  Prewind FM (with Priyanka and Matthew):
     start: 11
     end: 13
     type: daytime
-  Izzy & Izzy:
+  Flo and Jacob:
     start: 13
     end: 15
     type: daytime
@@ -68,19 +68,19 @@ Tuesday:
     start: 7
     end: 9
     type: after-dark
-  Grace and Naiya:
+  Lottie and Harriet:
     start: 9
     end: 11
     type: daytime
-  George Bowman:
+  Izzy and Izzy:
     start: 11
     end: 13
     type: daytime
-  Emily and Holly:
+  A Friend Recommends (with Emily and Jenny):
     start: 13
     end: 15
     type: daytime
-  "The Erin and Joe Show":
+  The Erin and Joe Show:
     start: 15
     end: 17
     type: daytime
@@ -121,15 +121,15 @@ Wednesday:
     start: 7
     end: 9
     type: after-dark
-  Zaina Khan:
+  Abi Crookshank:
     start: 9
     end: 11
     type: daytime
-  The Music Mixologist (with Tom Wainwright):
+  Mehreen Ahmed:
     start: 11
     end: 13
     type: daytime
-  The SO Show (with Simi and Dunni):
+  Hannah and Samantha:
     start: 13
     end: 15
     type: daytime
@@ -174,19 +174,19 @@ Thursday:
     start: 7
     end: 9
     type: after-dark
-  No Show:
+  Omay Chaudhry:
     start: 9
     end: 11
     type: automation
-  Mehreen Ahmed:
+  That Thursday Show:
     start: 11
     end: 13
     type: daytime
-  Dinner Party (with Livvy and Ewan):
+  Zaina Khan:
     start: 13
     end: 15
     type: daytime
-  Ollie Williams:
+  George Bowman and Friends:
     start: 15
     end: 17
     type: daytime
@@ -227,15 +227,15 @@ Friday:
     start: 7
     end: 9
     type: after-dark
-  Sofia's Friday Show:
+  It's gonna be o.k (with Olly):
     start: 9
     end: 11
     type: daytime
-  Anna Berrevoets:
+  The URN Chart Show:
     start: 11
     end: 13
     type: daytime
-  The Reuben Rabstein Show:
+  Dinner Party (with Livvy and Ewan):
     start: 13
     end: 15
     type: daytime
@@ -280,7 +280,7 @@ Saturday:
     start: 7
     end: 9
     type: after-dark
-  George and Damian:
+  Luc and Ria:
     start: 9
     end: 11
     type: daytime
@@ -288,7 +288,7 @@ Saturday:
     start: 11
     end: 12
     type: speech
-  Yasmin Warner:
+  No Brainers (with Grace and Emma):
     start: 12
     end: 14
     type: daytime
@@ -341,7 +341,7 @@ Sunday:
     start: 7
     end: 9
     type: after-dark
-  Bea and Charlie:
+  Amy and Thea:
     start: 9
     end: 11
     type: daytime
@@ -353,7 +353,7 @@ Sunday:
     start: 12
     end: 13
     type: speech
-  '"Whose show is it anyway?" (with Matty and Matt)':
+  Kitty and Gaia/Matt Mcallister:
     start: 13
     end: 15
     type: daytime
