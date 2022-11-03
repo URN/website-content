@@ -19,7 +19,7 @@ Monday:
     start: 9
     end: 11
     type: daytime
-  Prewind FM (with Priyanka and Matthew):
+  "Prewind FM (with Priyanka and Matthew)":
     start: 11
     end: 13
     type: daytime
@@ -76,7 +76,7 @@ Tuesday:
     start: 11
     end: 13
     type: daytime
-  A Friend Recommends (with Emily and Jenny):
+  "A Friend Recommends (with Emily and Jenny)":
     start: 13
     end: 15
     type: daytime
@@ -133,7 +133,7 @@ Wednesday:
     start: 13
     end: 15
     type: daytime
-  Pre-CRISIS show with Abbie:
+  "Pre-CRISIS show with Abbie":
     start: 15
     end: 17
     type: daytime
@@ -227,7 +227,7 @@ Friday:
     start: 7
     end: 9
     type: after-dark
-  It's gonna be o.k (with Olly):
+ "It's gonna be o.k (with Olly)":
     start: 9
     end: 11
     type: daytime
@@ -235,7 +235,7 @@ Friday:
     start: 11
     end: 13
     type: daytime
-  Dinner Party (with Livvy and Ewan):
+  "Dinner Party (with Livvy and Ewan)":
     start: 13
     end: 15
     type: daytime
@@ -353,7 +353,7 @@ Sunday:
     start: 12
     end: 13
     type: speech
-  Kitty and Gaia/Matt Mcallister:
+  "Kitty and Gaia//Matt Mcallister":
     start: 13
     end: 15
     type: daytime
