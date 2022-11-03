@@ -227,7 +227,7 @@ Friday:
     start: 7
     end: 9
     type: after-dark
- 'It's gonna be o.k (with Olly)':
+  'It's gonna be o.k (with Olly)':
     start: 9
     end: 11
     type: daytime
@@ -337,7 +337,7 @@ Sunday:
     start: 3
     end: 7
     type: automation
-  The Sunrise Cycle (with Elvy McCrudden):
+  "The Sunrise Cycle (with Elvy McCrudden)":
     start: 7
     end: 9
     type: after-dark
