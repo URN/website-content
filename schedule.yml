@@ -31,7 +31,7 @@ Monday:
     start: 15
     end: 17
     type: daytime
-  The Pulse:
+  'The Pulse (with Scarlett)':
     start: 17
     end: 18
     type: news
@@ -84,7 +84,7 @@ Tuesday:
     start: 15
     end: 17
     type: daytime
-  The Pulse:
+  'The Pulse (with Tom)':
     start: 17
     end: 18
     type: news
@@ -137,7 +137,7 @@ Wednesday:
     start: 15
     end: 17
     type: daytime
-  The Pulse:
+  'The Pulse (IMPACT Takeover)':
     start: 17
     end: 18
     type: news
@@ -190,7 +190,7 @@ Thursday:
     start: 15
     end: 17
     type: daytime
-  The Pulse:
+  'The Pulse (with Jack)':
     start: 17
     end: 18
     type: news
@@ -243,7 +243,7 @@ Friday:
     start: 15
     end: 17
     type: daytime
-  The Pulse:
+  'The Pulse (with Conor)':
     start: 17
     end: 18
     type: news
@@ -357,7 +357,7 @@ Sunday:
     start: 13
     end: 15
     type: daytime
-  "Balancing books and booze/Mellob experience":
+  "Balancing books and booze/The Mellob Experience":
     start: 15
     end: 16
     type: speech
