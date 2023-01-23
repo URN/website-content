@@ -15,23 +15,23 @@ Monday:
     start: 7
     end: 9
     type: after-dark
-  Danica and Chesca:
+  "Daytime Dose of J-Lo (With Jacob and Flo)":
     start: 9
     end: 11
     type: daytime
-  'Prewind FM (with Priyanka and Matthew)':
+  'Deep Dive (With Omay and Abeeha)':
     start: 11
     end: 13
     type: daytime
-  Flo and Jacob:
+  "Watcha Listening To? (With Abi)":
     start: 13
     end: 15
     type: daytime
-  It's Margot Mondays:
+  "It's Margot Mondays":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Scarlett)':
+  'The Pulse (with Callum and Jack)':
     start: 17
     end: 18
     type: news
@@ -68,23 +68,23 @@ Tuesday:
     start: 7
     end: 9
     type: after-dark
-  Lottie and Harriet:
+  "The Wake-Up Club (With Danica and Chesca)":
     start: 9
     end: 11
     type: daytime
-  Izzy and Izzy:
+  The Zaina Khan Show:
     start: 11
     end: 13
     type: daytime
-  'A Friend Recommends (with Emily and Jenny)':
+  "Vinyl Destination (With Mehreen)":
     start: 13
     end: 15
     type: daytime
-  The Erin and Joe Show:
+  "No Brainers (With Grace and Emma)":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Tom)':
+  'The Pulse (with Tom and Lottie)':
     start: 17
     end: 18
     type: news
@@ -121,23 +121,23 @@ Wednesday:
     start: 7
     end: 9
     type: after-dark
-  'Watcha listening too':
+  'The Erin and Joe Show':
     start: 9
     end: 11
     type: daytime
-  Mehreen Ahmed:
+  George Bowman and Friends:
     start: 11
     end: 13
     type: daytime
-  Hannah and Samantha:
+  'Dinner Party (With Livvy and Ewan)':
     start: 13
     end: 15
     type: daytime
-  'Pre-CRISIS show with Abbie':
+  "Pre-CRISIS Show (With Abbie)":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (IMPACT Takeover)':
+  'The Pulse (With Mark and Rebecca)':
     start: 17
     end: 18
     type: news
@@ -174,23 +174,23 @@ Thursday:
     start: 7
     end: 9
     type: after-dark
-  'Deep Dive (with Omay and Abeeha)':
+  'The URN Chart Show (With Madison)':
     start: 9
     end: 11
     type: daytime
-  That Thursday Show:
+  Life As We Know It (with Hannah and Samantha):
     start: 11
     end: 13
     type: daytime
-  Zaina Khan:
+  That Thursday Show:
     start: 13
     end: 15
     type: daytime
-  George Bowman and Friends:
+  Tweak on the Week (With Lottie and Harriet):
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Jack)':
+  'The Pulse (with Ben and Scarlett)':
     start: 17
     end: 18
     type: news
@@ -227,15 +227,15 @@ Friday:
     start: 7
     end: 9
     type: after-dark
-  "It's gonna be o.k (with Olly)":
+  The Izzy and Izzy Show:
     start: 9
     end: 11
     type: daytime
-  The URN Chart Show:
+  'A Friend Recommends (With Emily and Jenny)':
     start: 11
     end: 13
     type: daytime
-  'Dinner Party (with Livvy and Ewan)':
+  "It's Gonna Be O.K. (With Olly)":
     start: 13
     end: 15
     type: daytime
@@ -243,7 +243,7 @@ Friday:
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Conor)':
+  'The Pulse (with Conor and Cora)':
     start: 17
     end: 18
     type: news
@@ -280,7 +280,7 @@ Saturday:
     start: 7
     end: 9
     type: after-dark
-  Trash Talk:
+  Amy and Thea:
     start: 9
     end: 11
     type: daytime
@@ -288,7 +288,7 @@ Saturday:
     start: 11
     end: 12
     type: speech
-  No Brainers (with Grace and Emma):
+  "Trash Talk (With Luc and Ria)":
     start: 12
     end: 14
     type: daytime
@@ -341,7 +341,7 @@ Sunday:
     start: 7
     end: 9
     type: after-dark
-  Amy and Thea:
+  "Lazy Sundays (With Kitty)":
     start: 9
     end: 11
     type: daytime
@@ -353,7 +353,7 @@ Sunday:
     start: 12
     end: 13
     type: speech
-  'Kitty and Gaia/Matt Mcallister':
+  "Pri-wind FM (With Priyanka and Tafara":
     start: 13
     end: 15
     type: daytime
