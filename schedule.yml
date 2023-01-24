@@ -3,206 +3,206 @@ Monday:
     start: 0
     end: 1
     type: after-dark
-  The Boombox Show:
+  "The Boombox Show":
     start: 1
     end: 3
     type: after-dark
-  Automation:
+  "Automation":
     start: 3
     end: 7
     type: automation
-  MOOZIKA:
+  "MOOZIKA":
     start: 7
     end: 9
     type: after-dark
-  Danica and Chesca:
+  "Daytime Dose of J-Lo (With Jacob and Flo)":
     start: 9
     end: 11
     type: daytime
-  'Prewind FM (with Priyanka and Matthew)':
+  "Vinyl Destination (With Mehreen)":
     start: 11
     end: 13
     type: daytime
-  Flo and Jacob:
+  "Watcha Listening To? (With Abi)":
     start: 13
     end: 15
     type: daytime
-  It's Margot Mondays:
+  "It's Margot Mondays":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Scarlett)':
+  "The Pulse (with Callum and Jack)":
     start: 17
     end: 18
     type: news
-  Big Monday Night In:
+  "Big Monday Night In":
     start: 18
     end: 19
     type: sport
-  'Classic Discoveries // The Next Fix':
+  "Classic Discoveries // The Next Fix":
     start: 19
     end: 21
     type: after-dark
-  Indie Sunset:
+  "Indie Sunset":
     start: 21
     end: 23
     type: after-dark
-  Night Bus:
+  "Night Bus":
     start: 23
     end: 24
     type: after-dark
 Tuesday:
-  Night Bus:
+  "Night Bus":
     start: 0
     end: 1
     type: after-dark
-  Worldwide Music Show // Vapour Trail:
+  "Worldwide Music Show // Vapour Trail":
     start: 1
     end: 3
     type: after-dark
-  Automation:
+  "Automation":
     start: 3
     end: 7
     type: automation
-  Jeanette and Makeda:
+  "Jeanette and Makeda":
     start: 7
     end: 9
     type: after-dark
-  Lottie and Harriet:
+  "The Wake-Up Club (With Danica and Chesca)":
     start: 9
     end: 11
     type: daytime
-  Izzy and Izzy:
+  "The Zaina Khan Show":
     start: 11
     end: 13
     type: daytime
-  'A Friend Recommends (with Emily and Jenny)':
+  "Deep Dive (With Omay and Abeeha)":
     start: 13
     end: 15
     type: daytime
-  The Erin and Joe Show:
+  "No Brainers (With Grace and Emma)":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Tom)':
+  "The Pulse (with Tom and Lottie)":
     start: 17
     end: 18
     type: news
-  Tuesday Sports Show:
+  "Tuesday Sports Show":
     start: 18
     end: 19
     type: sport
-  'On Another Note // 2-Step Verification':
+  "On Another Note // 2-Step Verification":
     start: 19
     end: 21
     type: after-dark
-  Jon & Benedict's Indie Bangers:
+  "Jon & Benedict's Indie Bangers":
     start: 21
     end: 23
     type: after-dark
-  The Bayney and Bertie show:
+  "The Bayney and Bertie show:":
     start: 23
     end: 24
     type: after-dark
 Wednesday:
-  The Bayney and Bertie show:
+  "The Bayney and Bertie show":
     start: 0
     end: 1
     type: after-dark
-  NeoSeoul:
+  "NeoSeoul":
     start: 1
     end: 3
     type: after-dark
-  Automation:
+  "Automation":
     start: 3
     end: 7
     type: automation
-  'Woah Bessy!! Breakfast Show':
+  "Woah Bessy!! Breakfast Show":
     start: 7
     end: 9
     type: after-dark
-  'Watcha listening too':
+  "The Erin and Joe Show":
     start: 9
     end: 11
     type: daytime
-  Mehreen Ahmed:
+  "George Bowman and Friends":
     start: 11
     end: 13
     type: daytime
-  Hannah and Samantha:
+  "Dinner Party (With Livvy and Ewan)":
     start: 13
     end: 15
     type: daytime
-  'Pre-CRISIS show with Abbie':
+  "Pre-CRISIS Show (With Abbie)":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (IMPACT Takeover)':
+  "The Pulse (With Mark and Rebecca)":
     start: 17
     end: 18
     type: news
-  Kimbo Talks:
+  "Kimbo Talks":
     start: 18
     end: 19
     type: speech
-  Crate Digging:
+  "Crate Digging":
     start: 19
     end: 21
     type: after-dark
-  Kudescorner:
+  "Kudescorner":
     start: 21
     end: 23
     type: after-dark
-  The 13th Bar:
+  "The 13th Bar":
     start: 23
     end: 24
     type: after-dark
 Thursday:
-  The 13th Bar:
+  "The 13th Bar":
     start: 0
     end: 1
     type: after-dark
-  HELP I'VE HAD A CRISIS // Distant Lights:
+  "HELP I'VE HAD A CRISIS // Distant Lights":
     start: 1
     end: 3
     type: after-dark
-  Automation:
+  "Automation":
     start: 3
     end: 7
     type: automation
-  Pinch of Alt // Mellow Mornings:
+  "Pinch of Alt // Mellow Mornings":
     start: 7
     end: 9
     type: after-dark
-  'Deep Dive (with Omay and Abeeha)':
+  "The URN Chart Show (With Madison)":
     start: 9
     end: 11
     type: daytime
-  That Thursday Show:
+  "Life As We Know It (with Hannah and Samantha)":
     start: 11
     end: 13
     type: daytime
-  Zaina Khan:
+  "That Thursday Show":
     start: 13
     end: 15
     type: daytime
-  George Bowman and Friends:
+  "Tweak on the Week (With Lottie and Harriet)":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Jack)':
+  "The Pulse (with Ben and Scarlett)":
     start: 17
     end: 18
     type: news
-  Rotation Sport Podcast:
+  "Rotation Sport Podcast":
     start: 18
     end: 19
     type: sport
-  Indie Versus:
+  "Indie Versus":
     start: 19
     end: 21
     type: after-dark
-  Giant Steps:
+  "Giant Steps":
     start: 21
     end: 23
     type: after-dark
@@ -215,56 +215,56 @@ Friday:
     start: 0
     end: 1
     type: after-dark
-  Carp IDM:
+  "Carp IDM":
     start: 1
     end: 3
     type: after-dark
-  Automation:
+  "Automation":
     start: 3
     end: 7
     type: automation
-  Living For The Weekend:
+  "Living For The Weekend":
     start: 7
     end: 9
     type: after-dark
-  "It's gonna be o.k (with Olly)":
+  "The Izzy and Izzy Show":
     start: 9
     end: 11
     type: daytime
-  The URN Chart Show:
+  "A Friend Recommends (With Emily and Jenny)":
     start: 11
     end: 13
     type: daytime
-  'Dinner Party (with Livvy and Ewan)':
+  "It's Gonna Be O.K. (With Olly)":
     start: 13
     end: 15
     type: daytime
-  The Holy Trinity:
+  "The Holy Trinity":
     start: 15
     end: 17
     type: daytime
-  'The Pulse (with Conor)':
+  "The Pulse (with Conor and Cora)":
     start: 17
     end: 18
     type: news
-  Friday Night Mics:
+  "Friday Night Mics":
     start: 18
     end: 19
     type: sport
-  Pre-Ocean:
+  "Pre-Ocean":
     start: 19
     end: 21
     type: after-dark
-  Lights Out:
+  "Lights Out":
     start: 21
     end: 23
     type: after-dark
-  Xinelo // DOOMSDAY:
+  "Xinelo // DOOMSDAY":
     start: 23
     end: 24
     type: after-dark
 Saturday:
-  Xinelo // DOOMSDAY:
+  "Xinelo // DOOMSDAY":
     start: 0
     end: 1
     type: after-dark
@@ -272,27 +272,27 @@ Saturday:
     start: 1
     end: 3
     type: after-dark
-  Automation:
+  "Automation":
     start: 3
     end: 7
     type: automation
-  Yer Dad's Playlist:
+  "Yer Dad's Playlist":
     start: 7
     end: 9
     type: after-dark
-  Trash Talk:
+  "Amy and Thea":
     start: 9
     end: 11
     type: daytime
-  The world is yours:
+  "The world is yours":
     start: 11
     end: 12
     type: speech
-  No Brainers (with Grace and Emma):
+  "Trash Talk (With Luc and Ria)":
     start: 12
     end: 14
     type: daytime
-  Ready Player URN:
+  "Ready Player URN":
     start: 14
     end: 15
     type: speech
@@ -300,40 +300,40 @@ Saturday:
     start: 15
     end: 16
     type: speech
-  Around the Grounds:
+  "Around the Grounds":
     start: 16
     end: 17
     type: sport
-  The Big Picture:
+  "The Big Picture":
     start: 17
     end: 18
     type: speech
-  The Nila Extract:
+  "The Nila Extract":
     start: 18
     end: 19
     type: speech
-  The Rock Show:
+  "The Rock Show":
     start: 19
     end: 21
     type: after-dark
-  In URN We Trust:
+  "In URN We Trust":
     start: 21
     end: 23
     type: after-dark
-  UMS Residency:
+  "UMS Residency":
     start: 23
     end: 24
     type: after-dark
 Sunday:
-  UMS Residency:
+  "UMS Residency":
     start: 0
     end: 1
     type: after-dark
-  'Teresa Marques':
+  "Teresa Marques":
     start: 1
     end: 3
     type: after-dark
-  Automation:
+  "Automation":
     start: 3
     end: 7
     type: automation
@@ -341,11 +341,11 @@ Sunday:
     start: 7
     end: 9
     type: after-dark
-  Amy and Thea:
+  "Lazy Sundays (With Kitty)":
     start: 9
     end: 11
     type: daytime
-  Whistleblowers:
+  "Whistleblowers":
     start: 11
     end: 12
     type: sport
@@ -353,7 +353,7 @@ Sunday:
     start: 12
     end: 13
     type: speech
-  'Kitty and Gaia/Matt Mcallister':
+  "Pri-wind FM (With Priyanka and Tafara":
     start: 13
     end: 15
     type: daytime
@@ -361,27 +361,27 @@ Sunday:
     start: 15
     end: 16
     type: speech
-  'Film show':
+  "Film show":
     start: 16
     end: 17
     type: speech
-  Podcast Rotational:
+  "Podcast Rotational":
     start: 17
     end: 18
     type: speech
-  Showtime:
+  "Showtime":
     start: 18
     end: 19
     type: speech
-  Under the Radar:
+  "Under the Radar":
     start: 19
     end: 21
     type: after-dark
-  The Electronic Music Show:
+  "The Electronic Music Show":
     start: 21
     end: 23
     type: after-dark
-  Headbangers' Hideaway:
+  "Headbangers' Hideaway":
     start: 23
     end: 24
     type: after-dark
