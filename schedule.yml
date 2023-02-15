@@ -1,17 +1,17 @@
 Monday:
-  "Headbangers' Hideaway":
+  "Mashup":
     start: 0
     end: 1
     type: after-dark
-  "The Boombox Show":
+  "Jon and Hannah/Lola":
     start: 1
     end: 3
     type: after-dark
-  "Automation":
+  "Cinema Scope/The French Show":
     start: 3
     end: 7
     type: automation
-  "MOOZIKA":
+  "No Drama Just Garage/The Nextfix":
     start: 7
     end: 9
     type: after-dark
@@ -43,20 +43,20 @@ Monday:
     start: 19
     end: 21
     type: after-dark
-  "Indie Sunset":
+  "Kudescorner/Moozika":
     start: 21
     end: 23
     type: after-dark
-  "Night Bus":
+  "Woah Bessy!!":
     start: 23
     end: 24
     type: after-dark
 Tuesday:
-  "Night Bus":
+  "Woah Bessy!":
     start: 0
     end: 1
     type: after-dark
-  "Worldwide Music Show // Vapour Trail":
+  "Nightshift":
     start: 1
     end: 3
     type: after-dark
@@ -64,7 +64,7 @@ Tuesday:
     start: 3
     end: 7
     type: automation
-  "Jeanette and Makeda":
+  "Automation":
     start: 7
     end: 9
     type: after-dark
@@ -92,24 +92,24 @@ Tuesday:
     start: 18
     end: 19
     type: sport
-  "On Another Note // 2-Step Verification":
+  "The Early Get Up":
     start: 19
     end: 21
     type: after-dark
-  "Jon & Benedict's Indie Bangers":
+  "Groove Theory":
     start: 21
     end: 23
     type: after-dark
-  "The Bayney and Bertie show:":
+  "Will Griffin and Ross Williams":
     start: 23
     end: 24
     type: after-dark
 Wednesday:
-  "The Bayney and Bertie show":
+  "Will Griffin and Ross Williams":
     start: 0
     end: 1
     type: after-dark
-  "NeoSeoul":
+  "The Nighttime Project":
     start: 1
     end: 3
     type: after-dark
@@ -117,7 +117,7 @@ Wednesday:
     start: 3
     end: 7
     type: automation
-  "Woah Bessy!! Breakfast Show":
+  "Good Morning Vietnam/Indie Jukebox":
     start: 7
     end: 9
     type: after-dark
@@ -145,24 +145,24 @@ Wednesday:
     start: 18
     end: 19
     type: speech
-  "Crate Digging":
+  "A Pinch of Alt":
     start: 19
     end: 21
     type: after-dark
-  "Kudescorner":
+  "Living For The Weekend":
     start: 21
     end: 23
     type: after-dark
-  "The 13th Bar":
+  "NG1xtra":
     start: 23
     end: 24
     type: after-dark
 Thursday:
-  "The 13th Bar":
+  "NG1xtra":
     start: 0
     end: 1
     type: after-dark
-  "HELP I'VE HAD A CRISIS // Distant Lights":
+  "Shivani Hubli":
     start: 1
     end: 3
     type: after-dark
@@ -170,7 +170,7 @@ Thursday:
     start: 3
     end: 7
     type: automation
-  "Pinch of Alt // Mellow Mornings":
+  "Globe Trot":
     start: 7
     end: 9
     type: after-dark
@@ -198,24 +198,24 @@ Thursday:
     start: 18
     end: 19
     type: sport
-  "Indie Versus":
+  "Neo Seoul/DOOMSDAY":
     start: 19
     end: 21
     type: after-dark
-  "Giant Steps":
+  "Jon & Ben's Indie Bangers":
     start: 21
     end: 23
     type: after-dark
-  "The Alt R&B Show":
+  "Funkentology/Carp IDM":
     start: 23
     end: 24
     type: after-dark
 Friday:
-  "The Alt R&B Show":
+  "Funkentology/Carp IDM":
     start: 0
     end: 1
     type: after-dark
-  "Carp IDM":
+  "slowmotion.39":
     start: 1
     end: 3
     type: after-dark
@@ -223,7 +223,7 @@ Friday:
     start: 3
     end: 7
     type: automation
-  "Living For The Weekend":
+  "URN Top 25":
     start: 7
     end: 9
     type: after-dark
@@ -251,24 +251,24 @@ Friday:
     start: 18
     end: 19
     type: sport
-  "Pre-Ocean":
+  "The Pre-Ocean Show":
     start: 19
     end: 21
     type: after-dark
-  "Lights Out":
+  "Clubbed! Residents Takeover/Asher Omar, Lottie Murray and GRace":
     start: 21
     end: 23
     type: after-dark
-  "Xinelo // DOOMSDAY":
+  "Downward Spiral/Charlie Brooksbank":
     start: 23
     end: 24
     type: after-dark
 Saturday:
-  "Xinelo // DOOMSDAY":
+  "Downward Spiral/Charlie Brooksbank":
     start: 0
     end: 1
     type: after-dark
-  "Clubbed! Takeover":
+  "Nathan Woodhouse/The Only Show That's Left-Ley":
     start: 1
     end: 3
     type: after-dark
@@ -276,7 +276,7 @@ Saturday:
     start: 3
     end: 7
     type: automation
-  "Yer Dad's Playlist":
+  "Decks Dark":
     start: 7
     end: 9
     type: after-dark
@@ -316,7 +316,7 @@ Saturday:
     start: 19
     end: 21
     type: after-dark
-  "In URN We Trust":
+  "Ramzay Sherif Zain and Cleo/Keane Dsouza/Regan Gishen":
     start: 21
     end: 23
     type: after-dark
@@ -329,7 +329,7 @@ Sunday:
     start: 0
     end: 1
     type: after-dark
-  "Teresa Marques":
+  "Matthew Morris/Kai fields":
     start: 1
     end: 3
     type: after-dark
@@ -337,7 +337,7 @@ Sunday:
     start: 3
     end: 7
     type: automation
-  "The Sunrise Cycle (with Elvy McCrudden)":
+  "Tobias Lunn/Ingrid Anamaria":
     start: 7
     end: 9
     type: after-dark
@@ -353,7 +353,7 @@ Sunday:
     start: 12
     end: 13
     type: speech
-  "Pri-wind FM (With Priyanka and Tafara":
+  "Pri-wind FM (With Priyanka and Tafara)":
     start: 13
     end: 15
     type: daytime
@@ -377,11 +377,11 @@ Sunday:
     start: 19
     end: 21
     type: after-dark
-  "The Electronic Music Show":
+  "Automation":
     start: 21
     end: 23
     type: after-dark
-  "Headbangers' Hideaway":
+  "Mashup":
     start: 23
     end: 24
     type: after-dark
