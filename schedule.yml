@@ -7,11 +7,11 @@ Monday:
     start: 1
     end: 3
     type: after-dark
-  "Cinema Scope/The French Show":
+  "Automation":
     start: 3
     end: 7
     type: automation
-  "No Drama Just Garage/The Nextfix":
+  "Cinema Scope/The French Show":
     start: 7
     end: 9
     type: after-dark
@@ -39,7 +39,7 @@ Monday:
     start: 18
     end: 19
     type: sport
-  "Classic Discoveries // The Next Fix":
+  "No Drama Just Garage // The Next Fix":
     start: 19
     end: 21
     type: after-dark
@@ -62,12 +62,8 @@ Tuesday:
     type: after-dark
   "Automation":
     start: 3
-    end: 7
-    type: automation
-  "Automation":
-    start: 7
     end: 9
-    type: after-dark
+    type: automation
   "The Wake-Up Club (With Danica and Chesca)":
     start: 9
     end: 11
@@ -255,7 +251,7 @@ Friday:
     start: 19
     end: 21
     type: after-dark
-  "Clubbed! Residents Takeover/Asher Omar, Lottie Murray and GRace":
+  "Clubbed! Residents Takeover/Asher Omar, Lottie Murray and Grace":
     start: 21
     end: 23
     type: after-dark
