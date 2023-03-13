@@ -62,8 +62,12 @@ Tuesday:
     type: after-dark
   "Automation":
     start: 3
-    end: 9
+    end: 7
     type: automation
+  "The Twilight Zone":
+    start: 7
+    end: 9
+    type: after-dark
   "The Wake-Up Club (With Danica and Chesca)":
     start: 9
     end: 11
