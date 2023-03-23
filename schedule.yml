@@ -6,15 +6,8 @@ Monday:
 Tuesday:
   The Joe Show:
     start: 0
-    end: 15
-    type: daytime
-  "No Brainers (With Grace and Emma)":
-    start: 15
-    end: 17
-    type: daytime
-  The Joe Show:
-    start: 17
     end: 24
+    type: daytime
 Wednesday:
   The Joe Show:
     start: 0
