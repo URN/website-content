@@ -55,7 +55,7 @@ Tuesday:
   "Daytime Automation":
     start: 11
     end: 17
-    type: daytime
+    type: automation
   "The Tuesday Pulse":
     start: 17
     end: 18
