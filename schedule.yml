@@ -60,7 +60,7 @@ Tuesday:
     start: 17
     end: 18
     type: news
-  "Tuesday Sports Show":
+  "Sticky Wicket 2.0":
     start: 18
     end: 19
     type: sport
@@ -97,7 +97,7 @@ Wednesday:
     start: 13
     end: 15
     type: daytime
-  "Global and Grove: Harriet and Lucy":
+  "Global Groove: Harriet and Lucy":
     start: 15
     end: 17
     type: daytime
@@ -134,7 +134,7 @@ Thursday:
     start: 11
     end: 13
     type: daytime
-  "Daytime Automation":
+  "Nostalgic Pop with Angelina and Holly":
     start: 13
     end: 15
     type: automation
@@ -231,14 +231,18 @@ Saturday:
 Sunday:
   "Automation":
     start: 0
-    end: 13
+    end: 11
     type: automation
   "Lazy Sundays":
-    start: 13
-    end: 15
+    start: 11
+    end: 13
+    type: daytime
+  "SRA Chart Show":
+    start: 14
+    end: 16
     type: daytime
   "Daytime Automation":
-    start: 15
+    start: 16
     end: 19
     type: automation
   "Station to Station":
