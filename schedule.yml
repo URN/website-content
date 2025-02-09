@@ -237,6 +237,10 @@ Sunday:
     start: 11
     end: 13
     type: daytime
+  "Pre-Chart Show Automation":
+    start: 13
+    end: 14
+    type: automation
   "SRA Chart Show":
     start: 14
     end: 16
