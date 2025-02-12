@@ -128,6 +128,14 @@ Thursday:
     type: after-dark
   "Automation":
     start: 1
+    end: 7
+    type: automation
+  "Vapour Trails":
+    start: 7
+    end: 9
+    type: after-dark
+  "Daytime Automation":
+    start: 9
     end: 11
     type: automation
   "No Context":
