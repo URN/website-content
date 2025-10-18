@@ -1,46 +1,50 @@
 Monday:
-  "Sunday Happiess":
+  "Feedback":
     start: 0
     end: 1
     type: after-dark
-  "Automation":
+  "AWOL":
     start: 1
+    end: 3
+    type: after-dark
+  "Automation":
+    start: 3
     end: 9
     type: automation
-  "Our Tweak on the Week":
+  "tbc":
     start: 9
     end: 11
     type: daytime
-  "Daytime Automation":
+  "tbc":
     start: 11 
     end: 15 
-    type: automation
-  "It's Margot Mondays":
+    type: daytime
+  "tbc":
     start: 15
     end: 17
     type: daytime
-  "The Monday Pulse":
+  "The Women*s Pulse":
     start: 17
     end: 18
     type: news
-  "Big Monday Night In":
+  "tbc":
     start: 18
     end: 19
     type: sport
-  "Honeyforurears":
+  "Holly Innes":
     start: 19
     end: 21
     type: after-dark
-  "Arsima Bereketa":
+  "Eliza and Archie":
     start: 21
     end: 23
     type: after-dark
-  "Midnight Matters":
+  "Jade Higham":
     start: 23
     end: 24
     type: after-dark
 Tuesday:
-  "Midnight Matters":
+  "Jade Higham":
     start: 0
     end: 1
     type: after-dark
@@ -48,19 +52,19 @@ Tuesday:
     start: 1
     end: 9
     type: automation
-  "Wake up! With Jacob and Orla":
+  "tbc":
     start: 9
     end: 11
     type: daytime
-  "Daytime Automation":
+  "tbc":
     start: 11
     end: 17
-    type: automation
+    type: daytime
   "The Tuesday Pulse":
     start: 17
     end: 18
     type: news
-  "Sticky Wicket 2.0":
+  "tbc":
     start: 18
     end: 19
     type: sport
@@ -72,12 +76,12 @@ Tuesday:
     start: 21
     end: 23
     type: after-dark
-  "Lana Valentine":
+  "The Jam Sessions":
     start: 23
     end: 24
     type: after-dark
 Wednesday:
-  "Lana Valentine":
+  "The Jam Sessions":
     start: 0
     end: 1
     type: after-dark
@@ -85,19 +89,19 @@ Wednesday:
     start: 1
     end: 7
     type: automation
-  "Jack Sutton":
+  "tbc":
     start: 7
     end: 9
     type: after-dark
-  "Daytime Automation":
+  "tbc":
     start: 9
     end: 13
     type: daytime
-  "Oife Allcock / Grace Woodruff / Alex Bennett":
+  "tbc":
     start: 13
     end: 15
     type: daytime
-  "Global Groove: Harriet and Lucy":
+  "tbc":
     start: 15
     end: 17
     type: daytime
@@ -105,48 +109,52 @@ Wednesday:
     start: 17
     end: 18
     type: news
-  "Wednesday Sport":
+  "tbc":
     start: 18
     end: 19
-    type: speech
-  "Silver's Soul":
+    type: sport
+  "The House Show":
     start: 19
     end: 21
     type: after-dark
-  "The House Show":
+  "Emo Unmasked":
     start: 21
     end: 23
     type: after-dark
-  "The Scatty Sid Show":
+  "Vapour Trails":
     start: 23
     end: 24
     type: after-dark
 Thursday:
-  "The Scatty Sid Show":
+  "Vapour Trails":
     start: 0
     end: 1
     type: after-dark
-  "Automation":
+  "Gossamer State of Mind":
     start: 1
+    end: 3
+    type: after-dark
+  "Automation":
+    start: 3
     end: 7
     type: automation
-  "Vapour Trails":
+  "tbc":
     start: 7
     end: 9
     type: after-dark
-  "Daytime Automation":
+  "tbc":
     start: 9
     end: 11
-    type: automation
-  "No Context":
+    type: daytime
+  "tbc":
     start: 11
     end: 13
     type: daytime
-  "Nostalgic Pop with Angelina and Holly":
+  "tbc":
     start: 13
     end: 15
     type: daytime
-  "Double Take with Kit and Jake":
+  "tbc":
     start: 15
     end: 17
     type: daytime
@@ -154,10 +162,6 @@ Thursday:
     start: 17
     end: 18
     type: news
-  "Clubbed! Records Presents Big and Underrated":
-    start: 18
-    end: 19
-    type: after-dark
   "Disco Saved My Life":
     start: 19
     end: 21
@@ -166,28 +170,32 @@ Thursday:
     start: 21
     end: 23
     type: after-dark
-  "DnB Live - Drum and Bass Society":
+  "Tumi Adeusi":
     start: 23
     end: 24
     type: after-dark
 Friday:
-  "DnB Live - Drum and Bass Society":
+  "Tumi Adeusi":
     start: 0
     end: 1
     type: after-dark
-  "Automation":
+  "Esther Mckenzie":
     start: 1
+    end: 3
+    type: after-dark
+  "Automation":
+    start: 3
     end: 11
     type: automation
-  "The Sleep-In Club":
+  "tbc":
     start: 11
     end: 13
     type: daytime
-  "Coupla Wrongens":
+  "tbc":
     start: 13
     end: 15
     type: daytime
-  "Nodds to Nothing with Sami Mirza":
+  "tbc":
     start: 15
     end: 17
     type: daytime
@@ -195,7 +203,7 @@ Friday:
     start: 17
     end: 18
     type: news
-  "Friday Sport":
+  "tbc":
     start: 18
     end: 19
     type: sport
@@ -203,16 +211,16 @@ Friday:
     start: 19
     end: 21
     type: after-dark
-  "Leah Pennant":
+  "The Student Seat (a) / MIRA (b)":
     start: 21
     end: 23
     type: after-dark
-  "Cheyenne Monrose-Dwyer":
+  "City Soundcheck":
     start: 23
     end: 24
     type: after-dark
 Saturday:
-  "Cheyenne Monrose-Dwyer":
+  "City Soundcheck":
     start: 0
     end: 1
     type: after-dark
@@ -220,14 +228,14 @@ Saturday:
     start: 3
     end: 12
     type: automation
-  "Watch Along with Florence":
+  "tbc":
     start: 12
     end: 14
-    type: speech
-  "Daytime Automation":
+    type: daytime
+  "tbc":
     start: 14
     end: 19
-    type: automation
+    type: daytime
   "Down the Mouse Hole":
     start: 19
     end: 21
@@ -236,40 +244,44 @@ Saturday:
     start: 21
     end: 23
     type: after-dark
-  "AD-Automation":
+  "Tia Shah":
     start: 23
     end: 24
-    type: automation
+    type: after-dark
 Sunday:
-  "Automation":
+  "Tia Shah":
     start: 0
+    end: 1
+    type: after-dark
+  "Automation":
+    start: 1
     end: 11
     type: automation
-  "Lazy Sundays":
+  "tbc":
     start: 11
     end: 13
     type: daytime
-  "Pre-Chart Show Automation":
+  "tbc":
     start: 13
     end: 14
-    type: automation
-  "SRA Chart Show":
+    type: daytime
+  "tbc":
     start: 14
     end: 16
     type: daytime
-  "Daytime Automation":
+  "tbc":
     start: 16
     end: 19
-    type: automation
-  "Station to Station":
+    type: daytime
+  "Pirate Frequencies":
     start: 19
     end: 21
     type: after-dark
-  "Pirate Frequencies":
+  "Sunday Scaries":
     start: 21
     end: 23
     type: after-dark
-  "Sunday Scaries":
+  "Feedback":
     start: 23
     end: 24
     type: after-dark
