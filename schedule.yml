@@ -15,11 +15,11 @@ Monday:
     start: 9
     end: 11
     type: daytime
-  "No Context with Aimee and Nura":
+  "Day-Time Automation":
     start: 11 
     end: 13 
-    type: daytime
-  "Crashout":
+    type: automation
+  "What's Current?":
     start: 13
     end: 15
     type: daytime
@@ -60,15 +60,15 @@ Tuesday:
     start: 9
     end: 11
     type: sport
-  "Fitzroy Garage Party":
+  "No Context with Aimee and Nura":
     start: 11
     end: 13
     type: daytime
-  "The Indie Hours":
+  "Day-Time Automation":
     start: 13
     end: 15
-    type: daytime
-  "Mental Groove":
+    type: automation
+  "The Bigger Picture":
     start: 15
     end: 17
     type: daytime
@@ -101,19 +101,19 @@ Wednesday:
     start: 1
     end: 9
     type: automation
-  "International Bangers":
+  "The Price of Everything":
     start: 9
     end: 11
     type: daytime
-  "West End Wednesdays":
+  "International Bangers":
     start: 11
     end: 13
     type: daytime
-  "What's Current? with Leila":
+  "West End Wednesdays":
     start: 13
     end: 15
     type: daytime
-  "Triple Take":
+  "On Aux with Anna":
     start: 15
     end: 17
     type: daytime
@@ -150,15 +150,15 @@ Thursday:
     start: 9
     end: 11
     type: daytime
-  "Noteworthy":
+  "The Setlist":
     start: 11
     end: 13
     type: daytime
-  "The Bigger Picture":
+  "The Indie Hours":
     start: 13
     end: 15
     type: daytime
-  "The Setlist":
+  "Triple Take":
     start: 15
     end: 17
     type: daytime
@@ -189,24 +189,20 @@ Friday:
     type: after-dark
   "Night-Time Automation":
     start: 1
-    end: 9
-    type: automation
-  "The Price of Everything":
-    start: 9
     end: 11
-    type: daytime
+    type: automation
   "Zo-Zo's Retro Rewind":
     start: 11
     end: 13
     type: daytime
-  "Nostalgic Pop":
+  "Day-Time Automation":
     start: 13
     end: 15
-    type: daytime
-  "Nods to Nothing":
+    type: automation
+  "The Weekend Warmup":
     start: 15
     end: 17
-    type: daytime
+    type: sport
   "The Friday Pulse":
     start: 17
     end: 18
@@ -219,7 +215,7 @@ Friday:
     start: 19
     end: 21
     type: after-dark
-  "(a) The Student Seat / (b) MIRA ":
+  "MIRA":
     start: 21
     end: 23
     type: after-dark
@@ -244,22 +240,22 @@ Saturday:
     start: 10
     end: 11
     type: sport
-  "The North South Divide":
+  "What D'You Rec?":
     start: 11
     end: 13
     type: daytime   
-  "On Aux with Anna":
+  "Day-Time Automation":
     start: 13
     end: 15
-    type: daytime  
-  "The Love Shot":
+    type: automation
+  "Nostalgic Pop":
     start: 15
     end: 17
     type: daytime
-  "Fred FM":
+  "Evening Automation":
     start: 17
     end: 19
-    type: daytime
+    type: automation
   "Down the Mouse Hole":
     start: 19
     end: 21
