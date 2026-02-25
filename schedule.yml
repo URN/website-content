@@ -5,20 +5,16 @@ Monday:
     type: after-dark
   "Night-Time Automation":
     start: 1
-    end: 7
-    type: automation
-  "Wormcatching":
-    start: 7
     end: 9
-    type: after-dark
+    type: automation
   "80's and over":
     start: 9
     end: 11
     type: daytime
-  "Day-Time Automation":
+  "For the Love of Media!":
     start: 11 
     end: 13 
-    type: automation
+    type: daytime
   "What's Current?":
     start: 13
     end: 15
@@ -189,16 +185,20 @@ Friday:
     type: after-dark
   "Night-Time Automation":
     start: 1
-    end: 11
+    end: 9
     type: automation
+  "North-South Divide":
+    start: 9
+    end: 11
+    type: daytime
   "Zo-Zo's Retro Rewind":
     start: 11
     end: 13
     type: daytime
-  "Day-Time Automation":
+  "Mental Groove":
     start: 13
     end: 15
-    type: automation
+    type: daytime
   "The Weekend Warmup":
     start: 15
     end: 17
@@ -244,15 +244,15 @@ Saturday:
     start: 11
     end: 13
     type: daytime   
-  "Day-Time Automation":
+  "Noteworthy":
     start: 13
     end: 15
-    type: automation
+    type: daytime
   "Nostalgic Pop":
     start: 15
     end: 17
     type: daytime
-  "Evening Automation":
+  "The Love Shot":
     start: 17
     end: 19
     type: automation
@@ -285,7 +285,7 @@ Sunday:
     start: 13
     end: 15
     type: daytime
-  "The Sunday Shuffle with Max":
+  "The Sunday Shuffle":
     start: 15
     end: 17
     type: daytime
