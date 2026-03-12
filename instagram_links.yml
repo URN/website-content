@@ -1,0 +1,26 @@
+
+# ---------------------------------------------------------------------------
+# HOW TO UPDATE THE INSTAGRAM LINKS
+# ---------------------------------------------------------------------------
+# This file controls which 3 Instagram posts show on the website under
+# "Latest at URN".
+#
+# To change a post:
+#   1. Open the post on Instagram.
+#   2. Click the three dots (•••) on the post → "Copy link" (or copy from the
+#      address bar). You’ll get something like:
+#        https://www.instagram.com/p/ABC123xyz/
+#   3. Add /embed on the end so it becomes:
+#        https://www.instagram.com/p/ABC123xyz/embed
+#      IMPORTANT: Keep the word "embed" at the end — the site needs it to
+#      display the post. If you remove /embed, the embed will not work.
+#   4. Replace one of the lines under "posts:" below with your new link in
+#      quotes, e.g.:
+#        - 'https://www.instagram.com/p/ABC123xyz/embed'
+#   5. Save this file and upload it back to the same place.
+# ---------------------------------------------------------------------------
+
+posts:
+  - 'https://www.instagram.com/p/DVUN-9LjOjy/embed'
+  - 'https://www.instagram.com/p/DVE2WBvDC6o/embed'
+  - 'https://www.instagram.com/p/DVg3jk_jD8n/embed'
