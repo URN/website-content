@@ -60,10 +60,10 @@ Tuesday:
     start: 11
     end: 13
     type: daytime
-  "Day-Time Automation":
+  "Switch It Up":
     start: 13
     end: 15
-    type: automation
+    type: daytime
   "The Bigger Picture":
     start: 15
     end: 17
