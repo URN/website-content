@@ -1,20 +1,20 @@
 podcasts:
   - slug: urn-filtered
     title: URNFiltered
-    image: https://content.urn1350.co.uk/Podcasts/images/urn-filtered.png
+    image: https://content.urn1350.co.uk/podcasts/images/urn-filtered.png
     host: Jamie Carey
     description: >
-      URNfiltered breaks down the people, policy and powers that shape our politics.
+      URNFiltered breaks down the people, policy and powers that shape our politics.
     instagram: "@urnfiltered"
-    instagramlink: "https://www.instagram.com/urnfiltered/embed"
+    instagramlink: "https://www.instagram.com/urnfiltered/"
     guests: "DM to feature!"
-    spotifyEmbed: "https://open.spotify.com/show/778ZWje6bm1VBPAweURE8b?si=xiFUhM5cRbumsDVLT4aBzA&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGngwR4g9lboq1JR-HDAxVO3rdToPziOeXj1aOTfgVl94pggNM43o3Ug-PSF2o_aem_WtUqbWcwg8gZlWNjq1KRrw&nd=1&dlsi=eb26e9226e1a42f0"
+    spotifyEmbed: "https://open.spotify.com/embed/show/778ZWje6bm1VBPAweURE8b"
     featured: true
     order: 1
-  
+
   - slug: price-of-everything
     title: The Price of Everything
-    image: https://content.urn1350.co.uk/Podcasts/images/the-price-of-everything.png
+    image: https://content.urn1350.co.uk/podcasts/images/the-price-of-everything.png
     host: Sagarika Sengupta
     description: >
       The Price of Everything is a student-focused podcast that turns complex economic
@@ -22,86 +22,95 @@ podcasts:
       economics to everyday life and university experiences, the show makes the
       fascinating world of economics easy for everyone to understand.
     instagram: "@the_price_of_everything_"
-    instagramlink: "https://www.instagram.com/the_price_of_everything_/embed"
+    instagramlink: "https://www.instagram.com/the_price_of_everything_/"
     guests: "DM to feature"
+    spotifyEmbed: ""
     featured: true
     order: 2
 
   - slug: mourning-conversations
     title: Mourning Conversations
-    image: https://content.urn1350.co.uk/Podcasts/images/mourning-conversations.jpg
+    image: https://content.urn1350.co.uk/podcasts/images/mourning-conversations.jpg
     host: Lily Moreto
     description: >
-      The show includes talks about sensitive topics, so… trigger warning: death, suicide, mental health. Little bit about me: Hiya! I am Lily, and this show is about how I am dealing with the loss of my father. This podcast will include all the nitty-gritty, awkward and weird parts of the whole journey. I hope to be someone that people can relate to in such a difficult time. This is my first time really going public about it all, so please be patient with me! I am grateful to all of you who listen. Lots of luv, Lily xo
+      The show includes talks about sensitive topics, so trigger warning: death, suicide,
+      and mental health. Hiya! I am Lily, and this show is about how I am dealing with
+      the loss of my father. This podcast includes the awkward and weird parts of the
+      whole journey. I hope to be someone people can relate to in such a difficult time.
+      This is my first time really going public about it all, so please be patient with me.
+      I am grateful to all of you who listen. Lots of luv, Lily xo.
     instagram: "@mourningconversations"
-    spotifyEmbed: "https://open.spotify.com/show/1HpAxHolcogmiOwHnETxC5?si%3D670b29efc46d4406&sa=D&source=editors&ust=1774107180877159&usg=AOvVaw31n41KJlw5fDsrXiVexfnH"
+    instagramlink: "https://www.instagram.com/mourningconversations/"
+    guests: ""
+    spotifyEmbed: "https://open.spotify.com/embed/show/1HpAxHolcogmiOwHnETxC5"
     featured: true
     order: 3
 
   - slug: once-upon-a-term
     title: Once Upon a Term
-    image: https://content.urn1350.co.uk/Podcasts/images/the-price-of-everything.png
+    image: https://content.urn1350.co.uk/podcasts/images/once-upon-a-term.png
     host: Joel Fleming
     description: >
-      I interview Nottingham's lecturers about their academic journey from freshers to faculty! (and discover the odd fun fact here and there)
+      I interview Nottingham lecturers about their academic journey from freshers
+      to faculty, and discover the odd fun fact here and there.
     instagram: "@once_upon_aterm"
-    instagramlink: "https://www.instagram.com/once_upon_aterm/embed"
-    guests: "Will have occasional Co-hosts depending on what department the lecturer is from as I try to get a student per interview from said department. DM to feature!"
-    spotifyEmbed: "https://open.spotify.com/show/0i6TPOZuZPNSsC9AlQkZlq?si=bVoLwHTkQHqS2sahs2JJpg&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn8sq_CLcMESSgphIZfAgdKDnRBkiKoKPmkGi40M7QxGXNrj0TbWJRAjB_pO8_aem_MBjC-_e4xWK_th1qe83Xkw&nd=1&dlsi=8e0a6211f1e746a5"
+    instagramlink: "https://www.instagram.com/once_upon_aterm/"
+    guests: "Will have occasional co-hosts depending on department. DM to feature!"
+    spotifyEmbed: "https://open.spotify.com/embed/show/0i6TPOZuZPNSsC9AlQkZlq"
     featured: true
     order: 4
 
   - slug: a-girls-rambles
-    title: A Girl’s Rambles
-    image: https://content.urn1350.co.uk/Podcasts/images/a-girls-rambles.png
+    title: "A Girl's Rambles"
+    image: https://content.urn1350.co.uk/podcasts/images/a-girls-rambles.png
     host: Grace Morrell
     description: >
-      A very simple, basic podcast where I (Grace) discuss what I want, where I want (for some reason). It merely is a space to talk to people, discuss more, and find out about people and more importantly, ramble my heart out.
+      A simple podcast where I (Grace) discuss what I want, where I want.
+      It is a space to talk, discuss more, find out about people, and ramble.
     instagram: "@agirlsrambles.urn"
-    instagramlink: "https://www.instagram.com/agirlsrambles.urn/embed"
+    instagramlink: "https://www.instagram.com/agirlsrambles.urn/"
     guests: "DM to feature!"
+    spotifyEmbed: ""
     featured: true
     order: 5
 
   - slug: rhythm-and-real-talk
     title: Rhythm and Real Talk
-    image: https://content.urn1350.co.uk/Podcasts/images/rhythm-and-real-talk.png
+    image: https://content.urn1350.co.uk/podcasts/images/rhythm-and-real-talk.png
     host: Jess Knight and Lillia Aspinall Mariosa
     description: >
-      Rhythm and Real Talk is a space where music, culture, and real conversations come together. Hosted by Lillia & Jess, we talk about the songs that move us, the artists we love, the headlines we can’t ignore, and the everyday chaos that makes life what it is. Expect honest opinions, good energy, and conversations that feel like a catch-up with friends. We hope you enjoy
+      Rhythm and Real Talk is a space where music, culture, and real conversations
+      come together. Hosted by Lillia and Jess, we talk about songs that move us,
+      artists we love, headlines we cannot ignore, and everyday chaos.
     instagram: "@rhythmandrealtalk"
-    instagramlink: "https://www.instagram.com/rhythmandrealtalk/embed"
+    instagramlink: "https://www.instagram.com/rhythmandrealtalk/"
     guests: "DM to feature"
-    spotifyEmbed: "https://open.spotify.com/show/2593tFpRNoZYq8MRZcpvmO?si=GIzZNZKJQ4uMQBUGW7Oliw&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn8cK8zryP_2sIVXSA0S3cuVKr5ZpTGcwyjNFVKyIrJED7iayMdRIESNU505I_aem_E9vsJO6lgGirMSuEE78x8w&nd=1&dlsi=75c13852ea034e10"
+    spotifyEmbed: "https://open.spotify.com/embed/show/2593tFpRNoZYq8MRZcpvmO"
     featured: true
     order: 6
 
   - slug: the-wong-cast
     title: The WongCast
-    image: https://content.urn1350.co.uk/Podcasts/images/the-wong-cast.png
+    image: https://content.urn1350.co.uk/podcasts/images/the-wong-cast.png
     host: Danny Wong
     description: >
-      Welcome to The WongCast! A show where Danny Wong from Hong Kong discusses student life with fellow students from The University of Nottingham!
+      Welcome to The WongCast, where Danny Wong from Hong Kong discusses student
+      life with fellow University of Nottingham students.
     instagram: "@the.wongcast"
-    instagramlink: "https://www.instagram.com/the.wongcast/embed"
+    instagramlink: "https://www.instagram.com/the.wongcast/"
     guests: "DM to feature!"
-    spotifyEmbed: "https://open.spotify.com/show/50ACNOV1Qv3pVbDePCG9lE"
+    spotifyEmbed: "https://open.spotify.com/embed/show/50ACNOV1Qv3pVbDePCG9lE"
     featured: true
     order: 7
 
   - slug: off-the-grid
     title: Off the Grid
-    image: https://content.urn1350.co.uk/Podcasts/images/off-the-grid.png
+    image: https://content.urn1350.co.uk/podcasts/images/off-the-grid.png
     host: Starla and Jess
-    description: >
-      " "
+    description: ""
     instagram: "@offthegrid.urn"
-    instagramlink: "https://www.instagram.com/the.wongcast/embed"
+    instagramlink: "https://www.instagram.com/offthegrid.urn/"
     guests: "DM to feature!"
-    spotifyEmbed: "https://open.spotify.com/show/50ACNOV1Qv3pVbDePCG9lE"
+    spotifyEmbed: ""
     featured: false
     order: 8
-
-
-
-
