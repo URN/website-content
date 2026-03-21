@@ -1,7 +1,7 @@
 podcasts:
   - slug: urn-filtered
     title: URNFiltered
-    image: https://content.urn1350.co.uk/podcasts/images/urn-filtered.png
+    image: https://content.urn1350.co.uk/Podcasts/images/urn-filtered.png
     host: Jamie Carey
     description: >
       URNFiltered breaks down the people, policy and powers that shape our politics.
@@ -14,7 +14,7 @@ podcasts:
 
   - slug: price-of-everything
     title: The Price of Everything
-    image: https://content.urn1350.co.uk/podcasts/images/the-price-of-everything.png
+    image: https://content.urn1350.co.uk/Podcasts/images/the-price-of-everything.png
     host: Sagarika Sengupta
     description: >
       The Price of Everything is a student-focused podcast that turns complex economic
@@ -30,7 +30,7 @@ podcasts:
 
   - slug: mourning-conversations
     title: Mourning Conversations
-    image: https://content.urn1350.co.uk/podcasts/images/mourning-conversations.jpg
+    image: https://content.urn1350.co.uk/Podcasts/images/mourning-conversations.jpg
     host: Lily Moreto
     description: >
       The show includes talks about sensitive topics, so trigger warning: death, suicide,
@@ -48,7 +48,7 @@ podcasts:
 
   - slug: once-upon-a-term
     title: Once Upon a Term
-    image: https://content.urn1350.co.uk/podcasts/images/once-upon-a-term.png
+    image: https://content.urn1350.co.uk/Podcasts/images/once-upon-a-term.png
     host: Joel Fleming
     description: >
       I interview Nottingham lecturers about their academic journey from freshers
@@ -62,7 +62,7 @@ podcasts:
 
   - slug: a-girls-rambles
     title: "A Girl's Rambles"
-    image: https://content.urn1350.co.uk/podcasts/images/a-girls-rambles.png
+    image: https://content.urn1350.co.uk/Podcasts/images/a-girls-rambles.png
     host: Grace Morrell
     description: >
       A simple podcast where I (Grace) discuss what I want, where I want.
@@ -76,7 +76,7 @@ podcasts:
 
   - slug: rhythm-and-real-talk
     title: Rhythm and Real Talk
-    image: https://content.urn1350.co.uk/podcasts/images/rhythm-and-real-talk.png
+    image: https://content.urn1350.co.uk/Podcasts/images/rhythm-and-real-talk.png
     host: Jess Knight and Lillia Aspinall Mariosa
     description: >
       Rhythm and Real Talk is a space where music, culture, and real conversations
@@ -91,7 +91,7 @@ podcasts:
 
   - slug: the-wong-cast
     title: The WongCast
-    image: https://content.urn1350.co.uk/podcasts/images/the-wong-cast.png
+    image: https://content.urn1350.co.uk/Podcasts/images/the-wong-cast.png
     host: Danny Wong
     description: >
       Welcome to The WongCast, where Danny Wong from Hong Kong discusses student
@@ -105,7 +105,7 @@ podcasts:
 
   - slug: off-the-grid
     title: Off the Grid
-    image: https://content.urn1350.co.uk/podcasts/images/off-the-grid.png
+    image: https://content.urn1350.co.uk/Podcasts/images/off-the-grid.png
     host: Starla and Jess
     description: ""
     instagram: "@offthegrid.urn"
