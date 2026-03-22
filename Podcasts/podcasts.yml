@@ -103,7 +103,7 @@ podcasts:
     featured: true
     order: 7
 
-   - slug: off-the-grid
+  - slug: off-the-grid
     title: Off the Grid
     image: https://content.urn1350.co.uk/Podcasts/images/off-the-grid.png
     host: Starla and Jess
