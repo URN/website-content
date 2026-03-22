@@ -103,14 +103,15 @@ podcasts:
     featured: true
     order: 7
 
-  - slug: off-the-grid
+   - slug: off-the-grid
     title: Off the Grid
     image: https://content.urn1350.co.uk/Podcasts/images/off-the-grid.png
     host: Starla and Jess
-    description: ""
-    instagram: "@offthegrid.urn"
-    instagramlink: "https://www.instagram.com/offthegrid.urn/"
+    description: Our podcast brings you closer to the action of the British Superbike season. From rider interviews and insider insights to race breakdowns and bold opinions, we cover everything on the grid. Whether you’re a lifelong fan or just getting into superbikes, tune in for authentic conversations and a front row seat to the thrills of British racing.
+    instagram: "@_gridstart"
+    instagramlink: "https://www.instagram.com/_gridstart/"
+    tiktoklink: "https://www.tiktok.com/@.gridstart"
     guests: "DM to feature!"
     spotifyEmbed: ""
-    featured: false
+    featured: true
     order: 8
