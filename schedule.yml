@@ -25,20 +25,8 @@ Monday:
     type: daytime
   "Varsity Basketball Coverage":
     start: 17
-    end: 18
-    type: news
-  "Varsity Basketball Coverage":
-    start: 18
-    end: 19
-    type: sport
-  "Varsity Basketball Coverage":
-    start: 19
-    end: 21
-    type: after-dark
-  "Varsity Basketball Coverage":
-    start: 21
     end: 23
-    type: after-dark
+    type: sport
   "The Rotation":
     start: 23
     end: 24
