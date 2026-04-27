@@ -23,19 +23,19 @@ Monday:
     start: 15
     end: 17
     type: daytime
-  "Varsity Basketball Coverage":
+  "The Women*s Pulse":
     start: 17
     end: 18
     type: news
-  "Varsity Basketball Coverage":
+  "The Big Monday Night In":
     start: 18
     end: 19
     type: sport
-  "Varsity Basketball Coverage":
+  "Why Nott?":
     start: 19
     end: 21
     type: after-dark
-  "Varsity Basketball Coverage":
+  "Messy Mondays":
     start: 21
     end: 23
     type: after-dark
@@ -60,10 +60,10 @@ Tuesday:
     start: 11
     end: 13
     type: daytime
-  "Switch It Up":
+  "Day-Time Automation":
     start: 13
     end: 15
-    type: daytime
+    type: automation
   "The Bigger Picture":
     start: 15
     end: 17
