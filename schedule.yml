@@ -38,7 +38,7 @@ Monday:
   "Messy Mondays":
     start: 21
     end: 23
-    type: sport
+    type: after-dark
   "The Rotation":
     start: 23
     end: 24
@@ -60,10 +60,10 @@ Tuesday:
     start: 11
     end: 13
     type: daytime
-  "Day-Time Automation":
+  "Switch It Up":
     start: 13
     end: 15
-    type: automation
+    type: daytime
   "The Bigger Picture":
     start: 15
     end: 17
@@ -111,12 +111,20 @@ Wednesday:
     type: daytime
   "On Aux with Anna":
     start: 15
-    end: 16
+    end: 17
     type: daytime
-  "UON vs NTU Varsity Football":
-    start: 16
+  "The Wednesday Pulse":
+    start: 17
+    end: 18
+    type: news
+  "Culture Shock!":
+    start: 18
+    end: 19
+    type: daytime
+  "The House Show":
+    start: 19
     end: 21
-    type: sport
+    type: after-dark
   "Emo Unmasked":
     start: 21
     end: 23
