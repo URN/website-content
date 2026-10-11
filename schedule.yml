@@ -1,307 +1,283 @@
 Monday:
-  "Feedback.fm":
+  "Gian":
     start: 0
-    end: 1
+    end: 2
     type: after-dark
-  "Night-Time Automation":
-    start: 1
-    end: 9
-    type: automation
-  "80's and over":
-    start: 9
-    end: 11
+  "After Dark Automation":
+    start: 2
+    end: 5
+    type: after-dark
+  "Liquid Motivation Mondays":
+    start: 8
+    end: 10
+    type: breakfast
+  "ZoZo's Retro Rewind":
+    start: 10
+    end: 12
     type: daytime
-  "For the Love of Media!":
-    start: 11 
-    end: 13 
+  "Strangers When We Meet":
+    start: 12
+    end: 14
     type: daytime
-  "What's Current?":
-    start: 13
-    end: 15
+  "For the Love of Media":
+    start: 14
+    end: 16
     type: daytime
-  "Tea Time":
-    start: 15
-    end: 17
-    type: daytime
-  "The Women*s Pulse":
-    start: 17
+  "Drive Time Show":
+    start: 16
     end: 18
-    type: news
-  "The Big Monday Night In":
+    type: drivetime
+  "Womens sports show":
     start: 18
     end: 19
     type: sport
-  "Why Nott?":
+  "Big Monday night in":
     start: 19
-    end: 21
-    type: after-dark
-  "Messy Mondays":
-    start: 21
-    end: 23
-    type: after-dark
-  "The Rotation":
-    start: 23
+    end: 20
+    type: sport
+  "unit1350":
+    start: 20
+    end: 22
+    type: pre-club
+  "Niche Neeks":
+    start: 22
     end: 24
     type: after-dark
 Tuesday:
-  "The Rotation":
+  "After Dark Automation":
     start: 0
-    end: 1
+    end: 5
     type: after-dark
-  "Night-Time Automation":
-    start: 1
-    end: 9
-    type: automation
-  "The Magic Formula":
-    start: 9
-    end: 11
-    type: sport
-  "No Context with Aimee and Nura":
-    start: 11
-    end: 13
+  "Too Good Tuesdays (with a side of Grace)":
+    start: 8
+    end: 10
+    type: breakfast
+  "The Airball":
+    start: 10
+    end: 12
     type: daytime
-  "Switch It Up":
-    start: 13
-    end: 15
+  "Daytime Automation":
+    start: 12
+    end: 16
     type: daytime
-  "The Bigger Picture":
-    start: 15
-    end: 17
-    type: daytime
-  "The Tuesday Pulse":
-    start: 17
+  "Drive Time Show":
+    start: 16
     end: 18
-    type: news
+    type: drivetime
+  "News":
+    start: 18
+    end: 20
+    type: sport
+  "Disco Saved My Life":
+    start: 20
+    end: 22
+    type: pre-club
+  "The Jam Sessions":
+    start: 22
+    end: 24
+    type: after-dark
+Wednesday:
+  "After Dark Automation":
+    start: 0
+    end: 5
+    type: after-dark
+  "Midweek Morning Meltdown":
+    start: 8
+    end: 10
+    type: breakfast
+  "What Do You Rec?":
+    start: 10
+    end: 12
+    type: daytime
+  "Video Killed The Radio Star":
+    start: 12
+    end: 14
+    type: daytime
+  "Hidden Frequencies":
+    start: 14
+    end: 16
+    type: daytime
+  "Drive Time Show":
+    start: 16
+    end: 18
+    type: drivetime
   "Sticky Wickets":
     start: 18
     end: 19
     type: sport
-  "Modular Nostalgia":
+  "We, The People":
     start: 19
-    end: 21
-    type: after-dark
-  "Indie Jukebox":
-    start: 21
-    end: 23
-    type: after-dark
-  "The Jam Sessions":
-    start: 23
-    end: 24
-    type: after-dark
-Wednesday:
-  "The Jam Sessions":
-    start: 0
-    end: 1
-    type: after-dark
-  "Night-Time Automation":
-    start: 1
-    end: 9
-    type: automation
-  "The Price of Everything":
-    start: 9
-    end: 11
-    type: daytime
-  "International Bangers":
-    start: 11
-    end: 13
-    type: daytime
-  "West End Wednesdays":
-    start: 13
-    end: 15
-    type: daytime
-  "On Aux with Anna":
-    start: 15
-    end: 17
-    type: daytime
-  "The Wednesday Pulse":
-    start: 17
-    end: 18
-    type: news
-  "Culture Shock!":
-    start: 18
-    end: 19
-    type: daytime
-  "The House Show":
-    start: 19
-    end: 21
-    type: after-dark
-  "Emo Unmasked":
-    start: 21
-    end: 23
-    type: after-dark
-  "City Soundcheck":
-    start: 23
+    end: 20
+    type: sport
+  "Bring on Bodega!":
+    start: 20
+    end: 22
+    type: pre-club
+  "Kat":
+    start: 22
     end: 24
     type: after-dark
 Thursday:
-  "City Soundcheck":
+  "Windfall":
     start: 0
-    end: 1
+    end: 2
     type: after-dark
-  "Night-Time Automation":
-    start: 3
-    end: 9
-    type: automation
-  "Vapour Trails":
-    start: 9
-    end: 11
+  "After Dark Automation":
+    start: 2
+    end: 5
+    type: after-dark
+  "Oliver's Office Hours":
+    start: 10
+    end: 12
     type: daytime
-  "The Setlist":
-    start: 11
-    end: 13
+  "Fred FM":
+    start: 12
+    end: 14
     type: daytime
-  "The Indie Hours":
-    start: 13
-    end: 15
+  "Nostalgic Pop":
+    start: 14
+    end: 16
     type: daytime
-  "Triple Take":
-    start: 15
-    end: 17
-    type: daytime
-  "The Thursday Pulse":
-    start: 17
+  "Drive Time Show":
+    start: 16
     end: 18
-    type: news
-  "(a) The UoN Sport Show (b) The Women's Sport Show":
+    type: drivetime
+  "News":
     start: 18
-    end: 19
+    end: 20
     type: sport
-  "Disco Saved My Life":
-    start: 19
-    end: 21
-    type: after-dark
-  "Analog Archives":
-    start: 21
-    end: 23
-    type: after-dark
-  "Gossamer State of Mind":
-    start: 23
+  "New Music Show":
+    start: 20
+    end: 22
+    type: pre-club
+  "Chronicles":
+    start: 22
     end: 24
     type: after-dark
 Friday:
-  "Gossamer State of Mind":
+  "Metal @ Midnight":
     start: 0
-    end: 1
+    end: 2
     type: after-dark
-  "Night-Time Automation":
-    start: 1
-    end: 9
-    type: automation
-  "North-South Divide":
-    start: 9
-    end: 11
+  "After Dark Automation":
+    start: 2
+    end: 5
+    type: after-dark
+  "Rise and Shine":
+    start: 8
+    end: 10
+    type: breakfast
+  "The Indiependent Show":
+    start: 10
+    end: 12
     type: daytime
-  "Zo-Zo's Retro Rewind":
-    start: 11
-    end: 13
+  "Daytime Automation":
+    start: 12
+    end: 14
     type: daytime
-  "Mental Groove":
-    start: 13
-    end: 15
+  "Unmixed":
+    start: 14
+    end: 16
     type: daytime
-  "The Weekend Warmup":
-    start: 15
-    end: 17
-    type: daytime
-  "The Friday Pulse":
-    start: 17
+  "Drive Time Show":
+    start: 16
     end: 18
-    type: news
-  "Who are You?":
+    type: drivetime
+  "Did You Hear This?":
     start: 18
     end: 19
-    type: daytime
-  "The Pre-Ocean Show":
+    type: sport
+  "University sports show":
     start: 19
-    end: 21
-    type: after-dark
-  "MIRA":
-    start: 21
-    end: 23
-    type: after-dark
-  "Chronicles":
-    start: 23
+    end: 20
+    type: sport
+  "The Pre-O Show":
+    start: 20
+    end: 22
+    type: pre-club
+  "Azaria":
+    start: 22
     end: 24
     type: after-dark
 Saturday:
-  "Chronicles":
+  "Zander":
     start: 0
-    end: 1
+    end: 2
     type: after-dark
-  "Night-Time Automation":
-    start: 1
-    end: 9
-    type: automation
-  "All Things Rugby":
-    start: 9
+  "After Dark Automation":
+    start: 2
+    end: 5
+    type: after-dark
+  "Daytime Automation":
+    start: 8
     end: 10
-    type: sport
-  "All Things Sport":
+    type: breakfast
+  "Daytime Automation":
     start: 10
-    end: 11
-    type: sport
-  "What D'You Rec?":
-    start: 11
-    end: 13
-    type: daytime   
-  "Noteworthy":
-    start: 13
+    end: 12
+    type: daytime
+  "The Indie-Cisive Hours":
+    start: 12
+    end: 14
+    type: daytime
+  "Daytime Automation":
+    start: 14
     end: 15
     type: daytime
-  "Nostalgic Pop":
+  "3pm Blackout":
     start: 15
     end: 17
-    type: daytime
-  "The Love Shot":
+    type: sport
+  "The Student Thread":
     start: 17
+    end: 18
+    type: sport
+  "Saturday on Stage":
+    start: 18
     end: 19
-    type: automation
-  "Down the Mouse Hole":
-    start: 19
-    end: 21
-    type: after-dark
-  "Deadly Demos":
-    start: 21
-    end: 23
-    type: after-dark
-  "JP's Frequency":
-    start: 23
+    type: sport
+  "The Listening Party":
+    start: 22
     end: 24
     type: after-dark
 Sunday:
-  "JP's Frequency":
+  "Robin":
     start: 0
-    end: 1
+    end: 2
     type: after-dark
-  "Night-Time Automation":
-    start: 1
-    end: 11
-    type: automation
-  "Your Stories, Your Voices":
-    start: 11
-    end: 13
+  "After Dark Automation":
+    start: 2
+    end: 5
+    type: after-dark
+  "Daytime Automation":
+    start: 8
+    end: 10
+    type: breakfast
+  "Motion Notion":
+    start: 10
+    end: 12
     type: daytime
-  "Lazy Sundays":
-    start: 13
-    end: 15
+  "Indie-Folk":
+    start: 12
+    end: 14
     type: daytime
-  "The Sunday Shuffle":
-    start: 15
+  "Why Nott?":
+    start: 14
+    end: 16
+    type: daytime
+  "All things sport":
+    start: 16
     end: 17
-    type: daytime
-  "The Motion Notion":
+    type: sport
+  "Rugby Show":
     start: 17
-    end: 19
-    type: daytime
-  "Pirate Frequencies":
-    start: 19
-    end: 21
-    type: after-dark
-  "Sunday Scaries":
-    start: 21
-    end: 23
-    type: after-dark
-  "Feedback.fm":
-    start: 23
+    end: 18
+    type: sport
+  "New Music Show":
+    start: 20
+    end: 22
+    type: pre-club
+  "Aaron":
+    start: 22
     end: 24
     type: after-dark
