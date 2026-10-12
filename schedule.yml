@@ -1,7 +1,7 @@
 Monday:
   "After Dark with Gian":
     start: 0
-    end: 2
+    end: 4
     type: after-dark
   "Liquid Motivation Mondays":
     start: 8
@@ -19,7 +19,7 @@ Monday:
     start: 14
     end: 16
     type: daytime
-  "Tea Time":
+  "Team":
     start: 16
     end: 18
     type: drivetime
@@ -40,13 +40,17 @@ Monday:
     end: 24
     type: after-dark
 Tuesday:
+  "JMO Selects":
+    start: 0
+    end: 4
+    type: after-dark
   "Too Good Tuesdays (with a side of Grace)":
     start: 8
     end: 10
     type: breakfast
   "The Airball":
     start: 10
-    end: 12
+    end: 16
     type: daytime
   "Drive Time Show":
     start: 16
@@ -65,6 +69,10 @@ Tuesday:
     end: 24
     type: after-dark
 Wednesday:
+  "Metal @ Midnight":
+    start: 0
+    end: 4
+    type: after-dark
   "Midweek Morning Meltdown":
     start: 8
     end: 10
@@ -104,7 +112,7 @@ Wednesday:
 Thursday:
   "Windfall":
     start: 0
-    end: 2
+    end: 4
     type: after-dark
   "Oliver's Office Hours":
     start: 10
@@ -130,14 +138,14 @@ Thursday:
     start: 20
     end: 22
     type: pre-club
-  "Chronicles":
+  "Analog Achives":
     start: 22
     end: 24
     type: after-dark
 Friday:
-  "Metal @ Midnight":
+  "Chronicles":
     start: 0
-    end: 2
+    end: 4
     type: after-dark
   "Rise and Shine":
     start: 8
@@ -145,7 +153,7 @@ Friday:
     type: breakfast
   "The Indiependent Show":
     start: 10
-    end: 12
+    end: 14
     type: daytime
   "Unmixed":
     start: 14
@@ -167,18 +175,18 @@ Friday:
     start: 20
     end: 22
     type: pre-club
-  "Azaria":
+  "Mellow Moments":
     start: 22
     end: 24
     type: after-dark
 Saturday:
-  "After Dark with Zander":
+  "Please Don't Remind Me":
     start: 0
-    end: 2
+    end: 4
     type: after-dark
   "The Indie-Cisive Hours":
     start: 12
-    end: 14
+    end: 15
     type: daytime
   "3pm Blackout":
     start: 15
@@ -203,7 +211,7 @@ Saturday:
 Sunday:
   "After Dark with Robin":
     start: 0
-    end: 2
+    end: 4
     type: after-dark
   "Motion Notion":
     start: 10
@@ -225,11 +233,15 @@ Sunday:
     start: 17
     end: 18
     type: sport
+  "S2S Sounds":
+    start: 18
+    end: 20
+    type: after-dark
   "New Music Show":
     start: 20
     end: 22
     type: pre-club
-  "After Dark with Aaron":
+  "Hours to Midnight - The Metal Show":
     start: 22
     end: 24
     type: after-dark
