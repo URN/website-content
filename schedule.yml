@@ -192,6 +192,10 @@ Saturday:
     start: 18
     end: 19
     type: sport
+  "Deadly Demos":
+    start: 20
+    end: 22
+    type: after-dark
   "The Listening Party":
     start: 22
     end: 24
