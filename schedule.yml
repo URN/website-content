@@ -1,7 +1,7 @@
 Monday:
   "After Dark with Gian":
     start: 0
-    end: 4
+    end: 2
     type: after-dark
   "Liquid Motivation Mondays":
     start: 8
@@ -42,14 +42,18 @@ Monday:
 Tuesday:
   "JMO Selects":
     start: 0
-    end: 4
+    end: 2
     type: after-dark
   "Too Good Tuesdays (with a side of Grace)":
     start: 8
     end: 10
     type: breakfast
+  "Electronica Etcetera":
+    start: 12
+    end: 14
+    type: daytime
   "The Airball":
-    start: 10
+    start: 14
     end: 16
     type: daytime
   "Drive Time Show":
@@ -71,7 +75,7 @@ Tuesday:
 Wednesday:
   "Metal @ Midnight":
     start: 0
-    end: 4
+    end: 2
     type: after-dark
   "Midweek Morning Meltdown":
     start: 8
@@ -112,7 +116,7 @@ Wednesday:
 Thursday:
   "Windfall":
     start: 0
-    end: 4
+    end: 2
     type: after-dark
   "Oliver's Office Hours":
     start: 10
@@ -145,7 +149,7 @@ Thursday:
 Friday:
   "Chronicles":
     start: 0
-    end: 4
+    end: 2
     type: after-dark
   "Rise and Shine":
     start: 8
@@ -153,7 +157,7 @@ Friday:
     type: breakfast
   "The Indiependent Show":
     start: 10
-    end: 14
+    end: 12
     type: daytime
   "Unmixed":
     start: 14
@@ -182,11 +186,11 @@ Friday:
 Saturday:
   "Please Don't Remind Me":
     start: 0
-    end: 4
+    end: 2
     type: after-dark
   "The Indie-Cisive Hours":
     start: 12
-    end: 15
+    end: 14
     type: daytime
   "3pm Blackout":
     start: 15
@@ -211,7 +215,7 @@ Saturday:
 Sunday:
   "After Dark with Robin":
     start: 0
-    end: 4
+    end: 2
     type: after-dark
   "Motion Notion":
     start: 10
