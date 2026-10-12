@@ -1,11 +1,7 @@
 Monday:
-  "Gian":
+  "After Dark with Gian":
     start: 0
     end: 2
-    type: after-dark
-  "After Dark Automation":
-    start: 2
-    end: 5
     type: after-dark
   "Liquid Motivation Mondays":
     start: 8
@@ -44,10 +40,6 @@ Monday:
     end: 24
     type: after-dark
 Tuesday:
-  "After Dark Automation":
-    start: 0
-    end: 5
-    type: after-dark
   "Too Good Tuesdays (with a side of Grace)":
     start: 8
     end: 10
@@ -55,10 +47,6 @@ Tuesday:
   "The Airball":
     start: 10
     end: 12
-    type: daytime
-  "Daytime Automation":
-    start: 12
-    end: 16
     type: daytime
   "Drive Time Show":
     start: 16
@@ -77,10 +65,6 @@ Tuesday:
     end: 24
     type: after-dark
 Wednesday:
-  "After Dark Automation":
-    start: 0
-    end: 5
-    type: after-dark
   "Midweek Morning Meltdown":
     start: 8
     end: 10
@@ -113,7 +97,7 @@ Wednesday:
     start: 20
     end: 22
     type: pre-club
-  "Kat":
+  "After Dark with Kat":
     start: 22
     end: 24
     type: after-dark
@@ -121,10 +105,6 @@ Thursday:
   "Windfall":
     start: 0
     end: 2
-    type: after-dark
-  "After Dark Automation":
-    start: 2
-    end: 5
     type: after-dark
   "Oliver's Office Hours":
     start: 10
@@ -159,10 +139,6 @@ Friday:
     start: 0
     end: 2
     type: after-dark
-  "After Dark Automation":
-    start: 2
-    end: 5
-    type: after-dark
   "Rise and Shine":
     start: 8
     end: 10
@@ -170,10 +146,6 @@ Friday:
   "The Indiependent Show":
     start: 10
     end: 12
-    type: daytime
-  "Daytime Automation":
-    start: 12
-    end: 14
     type: daytime
   "Unmixed":
     start: 14
@@ -200,29 +172,13 @@ Friday:
     end: 24
     type: after-dark
 Saturday:
-  "Zander":
+  "After Dark with Zander":
     start: 0
     end: 2
     type: after-dark
-  "After Dark Automation":
-    start: 2
-    end: 5
-    type: after-dark
-  "Daytime Automation":
-    start: 8
-    end: 10
-    type: breakfast
-  "Daytime Automation":
-    start: 10
-    end: 12
-    type: daytime
   "The Indie-Cisive Hours":
     start: 12
     end: 14
-    type: daytime
-  "Daytime Automation":
-    start: 14
-    end: 15
     type: daytime
   "3pm Blackout":
     start: 15
@@ -241,18 +197,10 @@ Saturday:
     end: 24
     type: after-dark
 Sunday:
-  "Robin":
+  "After Dark with Robin":
     start: 0
     end: 2
     type: after-dark
-  "After Dark Automation":
-    start: 2
-    end: 5
-    type: after-dark
-  "Daytime Automation":
-    start: 8
-    end: 10
-    type: breakfast
   "Motion Notion":
     start: 10
     end: 12
@@ -277,7 +225,7 @@ Sunday:
     start: 20
     end: 22
     type: pre-club
-  "Aaron":
+  "After Dark with Aaron":
     start: 22
     end: 24
     type: after-dark
