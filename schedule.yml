@@ -48,13 +48,13 @@ Tuesday:
     start: 8
     end: 10
     type: breakfast
+  "The Airball":
+    start: 10
+    end: 12
+    type: daytime
   "Electronica Etcetera":
     start: 12
     end: 14
-    type: daytime
-  "The Airball":
-    start: 14
-    end: 16
     type: daytime
   "Drive Time Show":
     start: 16
