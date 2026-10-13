@@ -93,7 +93,7 @@ Wednesday:
     start: 14
     end: 16
     type: daytime
-  "Drive Time Show":
+  "Car Crash":
     start: 16
     end: 18
     type: drivetime
@@ -130,7 +130,7 @@ Thursday:
     start: 14
     end: 16
     type: daytime
-  "Drive Time Show":
+  "The Drive Time Climb":
     start: 16
     end: 18
     type: drivetime
@@ -163,7 +163,7 @@ Friday:
     start: 14
     end: 16
     type: daytime
-  "Drive Time Show":
+  "The Weekend Warmup":
     start: 16
     end: 18
     type: drivetime
