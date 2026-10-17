@@ -188,6 +188,10 @@ Saturday:
     start: 0
     end: 2
     type: after-dark
+  "Living For The Weekend":
+    start: 10
+    end: 12
+    type: daytime
   "The Indie-Cisive Hours":
     start: 12
     end: 14
@@ -221,7 +225,7 @@ Sunday:
     start: 10
     end: 12
     type: daytime
-  "Indie-Folk":
+  "Old Souls, New Sounds":
     start: 12
     end: 14
     type: daytime
